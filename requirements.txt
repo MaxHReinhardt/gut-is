@@ -9,3 +9,4 @@ leidenalg==0.11.0
 matplotlib==3.10.8
 langchain==1.2.13
 langchain-text-splitters==1.1.1
+pyvis==0.3.2
